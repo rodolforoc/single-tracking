@@ -1,4 +1,4 @@
-### Single Tracking
+## Single Tracking
 
 Aplicação feita em Python e OpenCV que realiza o rastreamento de um único objeto.
 
@@ -6,7 +6,8 @@ Aplicação feita em Python e OpenCV que realiza o rastreamento de um único obj
 - [Python](https://www.python.org/)
 - [openCV](https://opencv.org/)
 
-### Aplicação
+## Aplicação
+
 
 <p align="center">
   <img src = "https://github.com/rodolforoc/single-tracking/blob/master/assets/singletracking.PNG" width=700>
